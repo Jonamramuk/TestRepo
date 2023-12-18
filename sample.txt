@@ -1,1 +1,11 @@
-Sample File
+
+1. Universal Containers has selected a small and diverse group of users to review Inactive accounts. Given the Private sharing model, a public group was created and made available to this group of users. A sharing rule was created to make inactive Accounts visible to the public group. However some of these users are reporting they don't see any of the Accounts that were shared with the public group.
+what is the underlying Issue for these users?
+A. The users are In profiles that have no access to the Account object.
+
+B. The Accounts ire owned by users higher In the role hierarchy.
+
+C. The page layout assigned to these mart to different than the Account owner
+
+D. The users have a permission set that only allow Accounts in "Active' status.
+
